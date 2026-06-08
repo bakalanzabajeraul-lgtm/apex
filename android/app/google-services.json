@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630572068835",
+    "project_id": "apex-55499",
+    "storage_bucket": "apex-55499.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630572068835:android:5551bf72d7b39feb1b7ad6",
+        "android_client_info": {
+          "package_name": "com.apex.apex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2rjyeCh-PMMACb0-elvDsA7q3w_iYwKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
